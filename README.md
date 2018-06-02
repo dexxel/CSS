@@ -1,1 +1,1 @@
-CSS
+CSS-2-class
